@@ -35,9 +35,9 @@ The result is a navigable Power BI report with a Home page and four focused dash
   - Non-informative or constant columns
 - Standardized data types (numeric, text, date)
 - Created derived fields where relevant, for example:
-  - Age bands (e.g., 20–29, 30–39, 40–49, 50+)
+  - Age bands (e.g., 18–25, 26–35, 36–45, 46-55, 55+)
   - Income bands (Low / Medium / High based on salary)
-  - Tenure bands (0–2, 3–5, 6–10, 10+)
+  - Tenure bands (0-5, 6-10, 10+)
 - Renamed columns into HR-friendly labels for use in visuals
 
 
@@ -76,14 +76,14 @@ Landing page with buttons to navigate to:
 
 - KPIs:
   - Average and median income/salary
-  - Average salary hike (if present)
-  - Average stock/benefit level (if present)
+  - Average salary hike 
+  - Average stock level 
 - Visuals:
   - Average income by Department and JobRole
   - Average income by Gender (within Department/JobRole)
   - Attrition rate by Income Band (Low / Medium / High)
   - Salary hike vs Attrition (leavers vs stayers)
-  - Attrition by stock/benefit level (if applicable)
+  - Attrition by stock level 
 
 
 ### Page 3 – Engagement, Performance & Workload
@@ -92,8 +92,8 @@ Landing page with buttons to navigate to:
 
 - KPIs:
   - Average satisfaction scores (job / environment / relationship – depending on available columns)
-  - Average work–life balance (if available)
-  - Percentage of employees working overtime / high workload (if available)
+  - Average work–life balance 
+  - Percentage of employees working overtime / high workload 
 - Visuals:
   - Attrition by satisfaction level
   - Average satisfaction by Department and/or JobRole
