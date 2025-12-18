@@ -154,7 +154,9 @@ Replace these with your actual findings after exploring the Kaggle dataset:
 
 ## 8. Repository Structure (example)
 
+
 hr-analytics-powerbi/
+
 ├── HR_Analytics_Dashboard.pbix # Power BI report
 
 ├── data/
