@@ -156,11 +156,19 @@ Replace these with your actual findings after exploring the Kaggle dataset:
 
 hr-analytics-powerbi/
 ├── HR_Analytics_Dashboard.pbix # Power BI report
+
 ├── data/
+
 │ └── hr-analytics-prediction.xlsx # Converted & cleaned dataset from Kaggle
+
 ├── images/
+
 │ ├── overview.png
+
 │ ├── compensation.png
+
 │ ├── engagement.png
+
 │ └── tenure.png
+
 └── README.md
